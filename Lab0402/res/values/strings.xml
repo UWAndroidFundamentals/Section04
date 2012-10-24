@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Lab0402</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0402">Lab0402</string>
+	<string name="type1">Invoke alert type 1</string>
+	<string name="type2">Invoke alert type 2</string>
+	<string name="test">This is the test message.</string>
+</resources>

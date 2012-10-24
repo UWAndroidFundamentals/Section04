@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Lab0403</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0403">Lab0403</string>
+    <string name="hello">Hello World</string>
+    <item type="id" name="myviewId"/>
+    <dimen name="forty_pixels">40px</dimen>
+    
+</resources>
